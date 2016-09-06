@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     oro_message_queue_root_jobs:
         acl_resource: oro_message_queue_job
         source:
